@@ -1,12 +1,13 @@
 * {
     color: whitesmoke;
-}
-* {
     background-color: #1E2128;
-}
-* {
      font-family: "Gill Sans";
  }
+
+ .container{
+    box-sizing: border-box;
+    margin: 15px;
+ }
  h3 {
-     text-underline-position: below
+    text-decoration: underline;
  }
