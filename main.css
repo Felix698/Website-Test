@@ -1,5 +1,9 @@
 * {
-    background-color: black;
-    font-family: "Calibri";
-    color: whitesmoke
+    color: whitesmoke;
 }
+* {
+    background-color: black;
+}
+* {
+     font-family: "Gill Sans";
+ }
