@@ -7,3 +7,6 @@
 * {
      font-family: "Gill Sans";
  }
+ h3 {
+     text-underline-position: below
+ }
